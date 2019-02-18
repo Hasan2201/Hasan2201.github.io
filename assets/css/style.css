@@ -520,7 +520,7 @@ nav ul li {
 ===============================================================*/
 
 .home {
-    background: url("https://images.unsplash.com/photo-1471877325906-aee7c2240b5f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80") no-repeat top center #141315;
+    background: url("https://www.silicon.co.uk/wp-content/uploads/2015/12/shutterstock_124175077.jpg") no-repeat top center #141315;
     background-size: cover;
     position: relative;
     padding-top: 80px;
@@ -673,7 +673,7 @@ Tobias section
                     Service Section
 ===================================================================*/
 .service{
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6R3b-1PK4klun0Lnqx1iV32mK8FQ9BggXMPdZjN0hNph7CL55");
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/83719357783464926/E3214797B87F88026AB8CD9CE32ECB84B1A95076/?interpolation%5Cx3dlanczos-none%5Cx26output-format%5Cx3djpeg%5Cx26output-quality%5Cx3d95%5Cx26fit%5Cx3dinside%7C637%3A358%5Cx26composite-to%5Cx3d*,*%7C637%3A358%5Cx26background-color%5Cx3dblack");
     background-size: cover;
 }
 .main_service_area .head_title{
@@ -718,7 +718,7 @@ Tobias section
                    Team Section
 ====================================================================*/
 .team{
-    background-image: url("https://wallpapermemory.com/uploads/630/railroad-wallpaper-hd-1680x1050-483908.jpg")
+    background-image: url("https://vogobox.files.wordpress.com/2010/06/dark-gears.jpeg")
 }
 .main_team_area{
     overflow: hidden;
